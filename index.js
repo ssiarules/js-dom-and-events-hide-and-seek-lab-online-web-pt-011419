@@ -1,1 +1,1 @@
-document.getFirstSelector(ul)
+document.getFirstSelector('ul')
