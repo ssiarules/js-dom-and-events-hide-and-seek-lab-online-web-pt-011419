@@ -1,1 +1,4 @@
-document.getFirstSelector('ul')
+
+function getFirstSelector(selector){
+  return document.getFirstSelector(selector)
+}
